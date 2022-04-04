@@ -3,4 +3,9 @@ fieldset {
     width: 50%;
     text-align: center;
     background-color: lightblue;
+    border-color: blue;
+}
+
+img {
+    height: 20px;
 }
